@@ -3,7 +3,7 @@ body {margin:0;}
 
 .navbar{
   display: flex;
-  background-color:rgb(60, 124, 197);
+  background-color:rgb(100, 0, 167);
   position: fixed;
   top:0;
   width: 100%;
@@ -37,7 +37,7 @@ body {margin:0;}
   }
 
   .nav-right li a:hover {
-    background-color: rgb(31, 199, 106);
+    background-color: rgb(57, 0, 95);
   }
 
   .nav-right .active {
@@ -146,5 +146,5 @@ div.desc {
 }
 
 .btn:hover{
-    background-color: rgb(31, 199, 106)ue;
+    background-color: rgb(31, 199, 106);
 }

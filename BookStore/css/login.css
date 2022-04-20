@@ -3,7 +3,7 @@
 
 .navbar{
     display: flex;
-    background-color:rgb(60, 124, 197);
+    background-color:rgb(100, 0, 167);
     position: fixed;
     top:0;
     width: 100%;
@@ -37,11 +37,11 @@
     }
   
     .nav-right li a:hover {
-      background-color: rgb(31, 199, 106);
+      background-color: rgb(57, 0, 95);
     }
   
     .nav-right .active {
-      background-color: #04AA6D;
+      background-color: rgb(100, 0, 167);
     }
 
     /* main */
@@ -117,7 +117,7 @@ margin-bottom: 26px;
 
 body {
   background-color: #328f8a;
-  background-image: linear-gradient(45deg,#328f8a,#08ac4b);
+  background-image: linear-gradient(45deg,rgb(152, 64, 211) rgb(65, 50, 75));
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

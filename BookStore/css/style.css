@@ -4,7 +4,7 @@ body {margin:0;}
 
   .navbar{
     display: flex;
-    background-color:rgb(60, 124, 197);
+    background-color:rgb(100, 0, 167);
     position: fixed;
     top:0;
     width: 100%;
@@ -86,7 +86,7 @@ img{
 }
 
 .btn:hover{
-    background-color: rgb(31, 199, 106)ue;
+    background-color: rgb(57, 0, 95);
 }
 
 li {
@@ -111,7 +111,7 @@ li {
   }
 
   li a:hover {
-    background-color: rgb(31, 199, 106);
+    background-color: rgb(57, 0, 95);
   }
 
   .active {
